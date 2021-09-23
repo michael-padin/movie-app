@@ -1,0 +1,23 @@
+@import "../../common/colors.scss";
+
+.movieList, .seriesList {
+  margin: 20px 0px;
+
+  h2 {
+    color: $font-secondary;
+    margin-bottom: .5rem;
+    font-weight: 400;
+  }
+}
+
+// .movieContainer {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+//   grid-gap: 40px;
+// }
+
+
+.movieWrapper{
+  padding-bottom: 100px;
+}
+
